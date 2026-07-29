@@ -142,7 +142,8 @@ Merge again, then read what's on `main`:
 
 **[github.com/LMU-GLP/2026-sdg-06/tree/main/wiki](https://github.com/LMU-GLP/2026-sdg-06/tree/main/wiki)**
 
-Read the pages as a team.
+Read the pages as a team. If that link gives you a 404, your work is still
+sitting on a draft branch. Go back to step 4 and merge.
 
 This is the first time you see the whole thing instead of one answer at a
 time. It's also where you notice if your evidence is thinner than you thought.
