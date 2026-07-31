@@ -22,3 +22,5 @@ file in [`sources/`](../sources/).
 - [`sources/south-africa-water-access.md`](../sources/south-africa-water-access.md)
 - [`sources/cape-town-day-zero.md`](../sources/cape-town-day-zero.md)
 - [`sources/south-africa-household-count.md`](../sources/south-africa-household-count.md)
+- [`sources/sa-water-interruptions-by-province.md`](../sources/sa-water-interruptions-by-province.md)
+- [`sources/sa-province-population-2022-census.md`](../sources/sa-province-population-2022-census.md)
