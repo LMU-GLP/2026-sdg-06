@@ -11,6 +11,7 @@ file in [`sources/`](../sources/).
 - [South Africa: stalled access and a near-catastrophe](./south-africa-water.md) — national piped-water access has barely moved in 23 years, service is getting worse, and Cape Town came within months of shutting off its taps entirely.
 - [Programs already working on this](./water-programs.md) — charity: water's community-scale model, plus LA's and Seoul's own government/utility programs.
 - [Problem statement](./problem-statement.md) — the region we committed to (South Africa), who's affected (~7.6 million households facing multi-day interruptions), and why, with a citation on every figure.
+- [Concept](./concept.md) — an acoustic leak-detection product for Cape Town's municipal water utility, and what it deliberately leaves out.
 
 ## Sources this wiki is built from
 
